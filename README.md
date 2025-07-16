@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Md. Riasath Airf Prodhan
 
-<!--
-**Riasath/Riasath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Why you come here, Its annoying me.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 Passionate developer and tech enthusiast
+- 🌱 Always learning new technologies
+- 📫 How to reach me: [typetoprodhan@gmail.com]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Programming Languages:  C++, PHP, JavaScript.
+- Backend Development Frameworks : Laravel, CodeIgniter, Node.js, Express.js, Hapi.js.
+- Databases: MySQL, Oracle, MongoDB.
+- Tools & Technologies: VSCode, PhpStorm, GitHub Desktop.
+- DevOps and Cloud Infrastructure tools: Docker, Kubernetes, AWS.
+- AI Tools: GitHub Copilot, Claude, Snyk, Jam, Mintlify.
+
+
+
+## 🤝 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/riasath)
+
+
