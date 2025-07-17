@@ -1,6 +1,11 @@
 # 👋 Hi, I'm Md. Riasath Airf Prodhan
 
-Why you come here, Its annoying me.
+Investigate about me? You are in the wrong place, bro.
+If you are really interested in my work in a specific domain, let's have a coffee together.
+
+## 🤝 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/riasath)
+
 
 ## 🚀 About Me
 - 💻 Passionate developer and tech enthusiast
@@ -17,7 +22,5 @@ Why you come here, Its annoying me.
 
 
 
-## 🤝 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/riasath)
 
 
